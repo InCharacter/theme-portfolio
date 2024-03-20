@@ -7,6 +7,24 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: Resources
+    url: '#portfolio'
     weight: 20
+  - name: Abstract
+    url: '#abstract'
+    weight: 30
+  - name: About
+    url: '#info'
+    weight: 40
+  - name: Authors
+    url: '#authors'
+    weight: 50
+  - name: Acknowledgements
+    url: '#acknowledgements'
+    weight: 60
+  - name: Citation
+    url: '#citation'
+    weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 80

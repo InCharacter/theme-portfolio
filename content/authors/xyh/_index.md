@@ -1,20 +1,20 @@
 ---
 # Display name
-title: "InCharacter"
+title: "Yanghua Xiao"
+weight: 50
 
+user_groups: ["Author"]
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: ''
+# role: 'http://kw.fudan.edu.cn/people/xiaoyanghua/'
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,6 +22,8 @@ bio:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xtwang21@m.fudan.edu.cn"
+email: ""
+
+highlight_name: true
 ---
 

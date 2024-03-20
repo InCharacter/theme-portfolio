@@ -1,20 +1,19 @@
 ---
 # Display name
-title: "InCharacter"
+title: "Fudan University"
 
+user_groups: ["Organization"]
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: ''
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,6 +21,8 @@ bio:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xtwang21@m.fudan.edu.cn"
+email: "http://kw.fudan.edu.cn/"
+
+highlight_name: true
 ---
 

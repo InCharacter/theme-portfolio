@@ -18,7 +18,9 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+👋 Hi, there! This is the project page for our paper: "*InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews*".
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+<span style="font-size: 1rem; background: #BF7130; background: linear-gradient(to right, #BF7130 0%, #A65F2D 30%, #804C1A 60%, #7A4B19 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Find more papers about role-playing agents @ </span> [Awesome-RPA-Papers](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) 
+
+
